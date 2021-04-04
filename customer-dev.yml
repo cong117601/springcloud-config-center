@@ -1,4 +1,4 @@
 
-myconfig: test -cgm v2  -cgm
+myconfig: test -cgm v2 actuator  -cgm
 
 abc: gmc
