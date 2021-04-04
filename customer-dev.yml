@@ -1,4 +1,4 @@
 
-myconfig: test -cgm v1 dev -cgm
+myconfig: test -cgm v2  -cgm
 
 abc: gmc
